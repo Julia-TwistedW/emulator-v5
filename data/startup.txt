@@ -1,0 +1,7 @@
+whoami
+ls /
+cd /home/user
+mkdir projects
+ls
+cal
+exit
